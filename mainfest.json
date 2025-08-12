@@ -1,0 +1,17 @@
+{
+  "item": {
+    "name": "斯堪尼亚 启动 表盘",
+    "description": "仿斯堪尼亚卡车启动仪表动画。最上方跳转活力指标，scania字母跳转小爱同学。",
+    "preview": [“斯堪尼亚 20. png”, "wf_preview-2.png"], 
+    "icon": "ResizedImage_2025-08-12_13-58-53_33.jpg",                         
+    "source_url": "开源仓库URL（可选）",
+    "author": [{"name": "zianzuai", "author_url": “主页 URL”}]
+  },
+  "downloads": {
+    "o66,": {                                 
+      "version": "1.0",
+      "file_name": "（动态）斯堪尼亚 启动.bin"        
+    },
+    "o66nfc": { ... }                       
+  }
+}
